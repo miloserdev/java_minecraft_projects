@@ -1,0 +1,5 @@
+name: RP
+author: TheMarshallElite
+main: main.Main
+load: startup
+version: 1.0

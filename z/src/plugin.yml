@@ -1,0 +1,5 @@
+name: Network
+author: TheMarshallElite
+main: Main.Main
+version: 1.0
+load: startup
