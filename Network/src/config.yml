@@ -1,0 +1,8 @@
+groups:
+  default:
+    prefix:
+      1: "asd"
+      2 : "fgh"
+    suffix:
+      1: "asd"
+      2 : "fgh"

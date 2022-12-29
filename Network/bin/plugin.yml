@@ -1,0 +1,6 @@
+name: Network
+author: TheMarshallElite
+main: A_Main.Main
+load: startup
+depends: [PermissionsEx, PacketListenerApi]
+version: 1.0
